@@ -6,9 +6,8 @@
     <title><p>Curriculum</p></title>
 </head>
 <body>
- <p>Datos personales
+ Datos personales
  Nombre: Jeremy
- Apellido: Muriel</p>
- <a href="https://www.Muriel.org/es-Ec/about/manifesto/" >tomala</a>
+ Apellido: Muriel
  </body>
 </html>
